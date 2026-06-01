@@ -3,4 +3,5 @@
 void main() {
 
     System.out.println("삼성전자 화이팅");
+    System.out.println("하이닉스 화이팅");
 }
